@@ -135,3 +135,6 @@ input:focus {
     width: calc(20% - 2rem);
   }
 }
+button {
+  background: #000;
+}
